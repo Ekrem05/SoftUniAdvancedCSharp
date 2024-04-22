@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\bin\Debug\net6.0\CreditsApp.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\bin\Debug\net6.0\CreditsApp.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\bin\Debug\net6.0\CreditsApp.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\bin\Debug\net6.0\CreditsApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\bin\Debug\net6.0\CreditsApp.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.sourcelink.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\refint\CreditsApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\CreditsApp.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\CreditsApp\obj\Debug\net6.0\ref\CreditsApp.dll

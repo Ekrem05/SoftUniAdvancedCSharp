@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\bin\Debug\net6.0\SummatorApp.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\bin\Debug\net6.0\SummatorApp.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\bin\Debug\net6.0\SummatorApp.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\bin\Debug\net6.0\SummatorApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\bin\Debug\net6.0\SummatorApp.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.sourcelink.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\refint\SummatorApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\SummatorApp.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\ASP.NET\ASP.NET Advanced\Testing\SummatorApp\obj\Debug\net6.0\ref\SummatorApp.dll

@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\TestingDemo.UnitTests\\TestingDemo.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsAppWithDb\\CreditsAppWithDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsAppWithDb\\CreditsAppWithDb.csproj",
+        "projectName": "CreditsAppWithDb",
+        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsAppWithDb\\CreditsAppWithDb.csproj",
+        "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsAppWithDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsApp\\CreditsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsApp\\CreditsApp.csproj",
+        "projectName": "CreditsApp",
+        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsApp\\CreditsApp.csproj",
+        "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\SummatorApp\\SummatorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\SummatorApp\\SummatorApp.csproj",
+        "projectName": "SummatorApp",
+        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\SummatorApp\\SummatorApp.csproj",
+        "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\SummatorApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\TestingDemo.UnitTests\\TestingDemo.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\TestingDemo.UnitTests\\TestingDemo.UnitTests.csproj",
+        "projectName": "TestingDemo.UnitTests",
+        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\TestingDemo.UnitTests\\TestingDemo.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\TestingDemo.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsAppWithDb\\CreditsAppWithDb.csproj": {
+                "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsAppWithDb\\CreditsAppWithDb.csproj"
+              },
+              "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsApp\\CreditsApp.csproj": {
+                "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\CreditsApp\\CreditsApp.csproj"
+              },
+              "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\SummatorApp\\SummatorApp.csproj": {
+                "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET\\ASP.NET Advanced\\Testing\\SummatorApp\\SummatorApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
